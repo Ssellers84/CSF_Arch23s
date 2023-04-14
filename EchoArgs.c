@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(int n, char* args[]) {
     int i;
     printf("Number of args: %d\n", n);
